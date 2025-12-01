@@ -1,0 +1,1051 @@
+date,year,month,category,cpi
+2020-01-01,2020,1,"alcoholic beverages, tobacco products and recreational cannabis",171.4
+2020-02-01,2020,2,"alcoholic beverages, tobacco products and recreational cannabis",171.4
+2020-03-01,2020,3,"alcoholic beverages, tobacco products and recreational cannabis",171.5
+2020-04-01,2020,4,"alcoholic beverages, tobacco products and recreational cannabis",172.1
+2020-05-01,2020,5,"alcoholic beverages, tobacco products and recreational cannabis",172.1
+2020-06-01,2020,6,"alcoholic beverages, tobacco products and recreational cannabis",172.2
+2020-07-01,2020,7,"alcoholic beverages, tobacco products and recreational cannabis",172.0
+2020-08-01,2020,8,"alcoholic beverages, tobacco products and recreational cannabis",171.8
+2020-09-01,2020,9,"alcoholic beverages, tobacco products and recreational cannabis",172.1
+2020-10-01,2020,10,"alcoholic beverages, tobacco products and recreational cannabis",172.5
+2020-11-01,2020,11,"alcoholic beverages, tobacco products and recreational cannabis",172.1
+2020-12-01,2020,12,"alcoholic beverages, tobacco products and recreational cannabis",171.4
+2021-01-01,2021,1,"alcoholic beverages, tobacco products and recreational cannabis",172.5
+2021-02-01,2021,2,"alcoholic beverages, tobacco products and recreational cannabis",173.2
+2021-03-01,2021,3,"alcoholic beverages, tobacco products and recreational cannabis",173.6
+2021-04-01,2021,4,"alcoholic beverages, tobacco products and recreational cannabis",174.4
+2021-05-01,2021,5,"alcoholic beverages, tobacco products and recreational cannabis",175.2
+2021-06-01,2021,6,"alcoholic beverages, tobacco products and recreational cannabis",175.5
+2021-07-01,2021,7,"alcoholic beverages, tobacco products and recreational cannabis",175.0
+2021-08-01,2021,8,"alcoholic beverages, tobacco products and recreational cannabis",176.2
+2021-09-01,2021,9,"alcoholic beverages, tobacco products and recreational cannabis",175.8
+2021-10-01,2021,10,"alcoholic beverages, tobacco products and recreational cannabis",176.2
+2021-11-01,2021,11,"alcoholic beverages, tobacco products and recreational cannabis",176.6
+2021-12-01,2021,12,"alcoholic beverages, tobacco products and recreational cannabis",175.7
+2022-01-01,2022,1,"alcoholic beverages, tobacco products and recreational cannabis",178.2
+2022-02-01,2022,2,"alcoholic beverages, tobacco products and recreational cannabis",178.5
+2022-03-01,2022,3,"alcoholic beverages, tobacco products and recreational cannabis",179.3
+2022-04-01,2022,4,"alcoholic beverages, tobacco products and recreational cannabis",179.8
+2022-05-01,2022,5,"alcoholic beverages, tobacco products and recreational cannabis",180.4
+2022-06-01,2022,6,"alcoholic beverages, tobacco products and recreational cannabis",180.7
+2022-07-01,2022,7,"alcoholic beverages, tobacco products and recreational cannabis",181.6
+2022-08-01,2022,8,"alcoholic beverages, tobacco products and recreational cannabis",182.4
+2022-09-01,2022,9,"alcoholic beverages, tobacco products and recreational cannabis",182.4
+2022-10-01,2022,10,"alcoholic beverages, tobacco products and recreational cannabis",183.5
+2022-11-01,2022,11,"alcoholic beverages, tobacco products and recreational cannabis",184.5
+2022-12-01,2022,12,"alcoholic beverages, tobacco products and recreational cannabis",184.2
+2023-01-01,2023,1,"alcoholic beverages, tobacco products and recreational cannabis",186.5
+2023-02-01,2023,2,"alcoholic beverages, tobacco products and recreational cannabis",187.3
+2023-03-01,2023,3,"alcoholic beverages, tobacco products and recreational cannabis",189.0
+2023-04-01,2023,4,"alcoholic beverages, tobacco products and recreational cannabis",189.4
+2023-05-01,2023,5,"alcoholic beverages, tobacco products and recreational cannabis",190.3
+2023-06-01,2023,6,"alcoholic beverages, tobacco products and recreational cannabis",190.5
+2023-07-01,2023,7,"alcoholic beverages, tobacco products and recreational cannabis",191.2
+2023-08-01,2023,8,"alcoholic beverages, tobacco products and recreational cannabis",191.9
+2023-09-01,2023,9,"alcoholic beverages, tobacco products and recreational cannabis",192.0
+2023-10-01,2023,10,"alcoholic beverages, tobacco products and recreational cannabis",192.2
+2023-11-01,2023,11,"alcoholic beverages, tobacco products and recreational cannabis",193.0
+2023-12-01,2023,12,"alcoholic beverages, tobacco products and recreational cannabis",192.1
+2024-01-01,2024,1,"alcoholic beverages, tobacco products and recreational cannabis",194.3
+2024-02-01,2024,2,"alcoholic beverages, tobacco products and recreational cannabis",194.1
+2024-03-01,2024,3,"alcoholic beverages, tobacco products and recreational cannabis",195.0
+2024-04-01,2024,4,"alcoholic beverages, tobacco products and recreational cannabis",195.9
+2024-05-01,2024,5,"alcoholic beverages, tobacco products and recreational cannabis",196.4
+2024-06-01,2024,6,"alcoholic beverages, tobacco products and recreational cannabis",196.5
+2024-07-01,2024,7,"alcoholic beverages, tobacco products and recreational cannabis",196.4
+2024-08-01,2024,8,"alcoholic beverages, tobacco products and recreational cannabis",197.9
+2024-09-01,2024,9,"alcoholic beverages, tobacco products and recreational cannabis",197.8
+2024-10-01,2024,10,"alcoholic beverages, tobacco products and recreational cannabis",198.0
+2024-11-01,2024,11,"alcoholic beverages, tobacco products and recreational cannabis",198.3
+2024-12-01,2024,12,"alcoholic beverages, tobacco products and recreational cannabis",193.5
+2025-01-01,2025,1,"alcoholic beverages, tobacco products and recreational cannabis",192.3
+2025-02-01,2025,2,"alcoholic beverages, tobacco products and recreational cannabis",195.2
+2025-03-01,2025,3,"alcoholic beverages, tobacco products and recreational cannabis",199.7
+2025-04-01,2025,4,"alcoholic beverages, tobacco products and recreational cannabis",200.0
+2025-05-01,2025,5,"alcoholic beverages, tobacco products and recreational cannabis",200.4
+2025-06-01,2025,6,"alcoholic beverages, tobacco products and recreational cannabis",200.2
+2025-07-01,2025,7,"alcoholic beverages, tobacco products and recreational cannabis",200.1
+2025-08-01,2025,8,"alcoholic beverages, tobacco products and recreational cannabis",200.5
+2025-09-01,2025,9,"alcoholic beverages, tobacco products and recreational cannabis",200.8
+2025-10-01,2025,10,"alcoholic beverages, tobacco products and recreational cannabis",201.0
+2020-01-01,2020,1,all-items,136.8
+2020-02-01,2020,2,all-items,137.4
+2020-03-01,2020,3,all-items,136.6
+2020-04-01,2020,4,all-items,135.7
+2020-05-01,2020,5,all-items,136.1
+2020-06-01,2020,6,all-items,137.2
+2020-07-01,2020,7,all-items,137.2
+2020-08-01,2020,8,all-items,137.0
+2020-09-01,2020,9,all-items,136.9
+2020-10-01,2020,10,all-items,137.5
+2020-11-01,2020,11,all-items,137.7
+2020-12-01,2020,12,all-items,137.4
+2021-01-01,2021,1,all-items,138.2
+2021-02-01,2021,2,all-items,138.9
+2021-03-01,2021,3,all-items,139.6
+2021-04-01,2021,4,all-items,140.3
+2021-05-01,2021,5,all-items,141.0
+2021-06-01,2021,6,all-items,141.4
+2021-07-01,2021,7,all-items,142.3
+2021-08-01,2021,8,all-items,142.6
+2021-09-01,2021,9,all-items,142.9
+2021-10-01,2021,10,all-items,143.9
+2021-11-01,2021,11,all-items,144.2
+2021-12-01,2021,12,all-items,144.0
+2022-01-01,2022,1,all-items,145.3
+2022-02-01,2022,2,all-items,146.8
+2022-03-01,2022,3,all-items,148.9
+2022-04-01,2022,4,all-items,149.8
+2022-05-01,2022,5,all-items,151.9
+2022-06-01,2022,6,all-items,152.9
+2022-07-01,2022,7,all-items,153.1
+2022-08-01,2022,8,all-items,152.6
+2022-09-01,2022,9,all-items,152.7
+2022-10-01,2022,10,all-items,153.8
+2022-11-01,2022,11,all-items,154.0
+2022-12-01,2022,12,all-items,153.1
+2023-01-01,2023,1,all-items,153.9
+2023-02-01,2023,2,all-items,154.5
+2023-03-01,2023,3,all-items,155.3
+2023-04-01,2023,4,all-items,156.4
+2023-05-01,2023,5,all-items,157.0
+2023-06-01,2023,6,all-items,157.2
+2023-07-01,2023,7,all-items,158.1
+2023-08-01,2023,8,all-items,158.7
+2023-09-01,2023,9,all-items,158.5
+2023-10-01,2023,10,all-items,158.6
+2023-11-01,2023,11,all-items,158.8
+2023-12-01,2023,12,all-items,158.3
+2024-01-01,2024,1,all-items,158.3
+2024-02-01,2024,2,all-items,158.8
+2024-03-01,2024,3,all-items,159.8
+2024-04-01,2024,4,all-items,160.6
+2024-05-01,2024,5,all-items,161.5
+2024-06-01,2024,6,all-items,161.4
+2024-07-01,2024,7,all-items,162.1
+2024-08-01,2024,8,all-items,161.8
+2024-09-01,2024,9,all-items,161.1
+2024-10-01,2024,10,all-items,161.8
+2024-11-01,2024,11,all-items,161.8
+2024-12-01,2024,12,all-items,161.2
+2025-01-01,2025,1,all-items,161.3
+2025-02-01,2025,2,all-items,163.0
+2025-03-01,2025,3,all-items,163.5
+2025-04-01,2025,4,all-items,163.4
+2025-05-01,2025,5,all-items,164.3
+2025-06-01,2025,6,all-items,164.4
+2025-07-01,2025,7,all-items,164.9
+2025-08-01,2025,8,all-items,164.8
+2025-09-01,2025,9,all-items,164.9
+2025-10-01,2025,10,all-items,165.3
+2020-01-01,2020,1,all-items excluding energy,134.9
+2020-02-01,2020,2,all-items excluding energy,135.7
+2020-03-01,2020,3,all-items excluding energy,135.8
+2020-04-01,2020,4,all-items excluding energy,135.7
+2020-05-01,2020,5,all-items excluding energy,135.5
+2020-06-01,2020,6,all-items excluding energy,136.1
+2020-07-01,2020,7,all-items excluding energy,136.0
+2020-08-01,2020,8,all-items excluding energy,135.7
+2020-09-01,2020,9,all-items excluding energy,135.6
+2020-10-01,2020,10,all-items excluding energy,136.2
+2020-11-01,2020,11,all-items excluding energy,136.5
+2020-12-01,2020,12,all-items excluding energy,136.0
+2021-01-01,2021,1,all-items excluding energy,136.7
+2021-02-01,2021,2,all-items excluding energy,137.1
+2021-03-01,2021,3,all-items excluding energy,137.3
+2021-04-01,2021,4,all-items excluding energy,137.9
+2021-05-01,2021,5,all-items excluding energy,138.5
+2021-06-01,2021,6,all-items excluding energy,138.8
+2021-07-01,2021,7,all-items excluding energy,139.5
+2021-08-01,2021,8,all-items excluding energy,139.8
+2021-09-01,2021,9,all-items excluding energy,140.1
+2021-10-01,2021,10,all-items excluding energy,140.7
+2021-11-01,2021,11,all-items excluding energy,141.0
+2021-12-01,2021,12,all-items excluding energy,141.1
+2022-01-01,2022,1,all-items excluding energy,142.1
+2022-02-01,2022,2,all-items excluding energy,143.1
+2022-03-01,2022,3,all-items excluding energy,144.4
+2022-04-01,2022,4,all-items excluding energy,145.3
+2022-05-01,2022,5,all-items excluding energy,146.6
+2022-06-01,2022,6,all-items excluding energy,147.1
+2022-07-01,2022,7,all-items excluding energy,148.1
+2022-08-01,2022,8,all-items excluding energy,148.3
+2022-09-01,2022,9,all-items excluding energy,148.9
+2022-10-01,2022,10,all-items excluding energy,149.4
+2022-11-01,2022,11,all-items excluding energy,149.8
+2022-12-01,2022,12,all-items excluding energy,149.7
+2023-01-01,2023,1,all-items excluding energy,150.4
+2023-02-01,2023,2,all-items excluding energy,151.2
+2023-03-01,2023,3,all-items excluding energy,152.0
+2023-04-01,2023,4,all-items excluding energy,152.7
+2023-05-01,2023,5,all-items excluding energy,153.4
+2023-06-01,2023,6,all-items excluding energy,153.5
+2023-07-01,2023,7,all-items excluding energy,154.3
+2023-08-01,2023,8,all-items excluding energy,154.5
+2023-09-01,2023,9,all-items excluding energy,154.4
+2023-10-01,2023,10,all-items excluding energy,155.1
+2023-11-01,2023,11,all-items excluding energy,155.5
+2023-12-01,2023,12,all-items excluding energy,155.2
+2024-01-01,2024,1,all-items excluding energy,155.3
+2024-02-01,2024,2,all-items excluding energy,155.6
+2024-03-01,2024,3,all-items excluding energy,156.4
+2024-04-01,2024,4,all-items excluding energy,156.6
+2024-05-01,2024,5,all-items excluding energy,157.7
+2024-06-01,2024,6,all-items excluding energy,157.8
+2024-07-01,2024,7,all-items excluding energy,158.5
+2024-08-01,2024,8,all-items excluding energy,158.3
+2024-09-01,2024,9,all-items excluding energy,158.1
+2024-10-01,2024,10,all-items excluding energy,158.8
+2024-11-01,2024,11,all-items excluding energy,158.8
+2024-12-01,2024,12,all-items excluding energy,158.2
+2025-01-01,2025,1,all-items excluding energy,157.9
+2025-02-01,2025,2,all-items excluding energy,159.6
+2025-03-01,2025,3,all-items excluding energy,160.3
+2025-04-01,2025,4,all-items excluding energy,161.1
+2025-05-01,2025,5,all-items excluding energy,161.9
+2025-06-01,2025,6,all-items excluding energy,162.1
+2025-07-01,2025,7,all-items excluding energy,162.6
+2025-08-01,2025,8,all-items excluding energy,162.3
+2025-09-01,2025,9,all-items excluding energy,162.4
+2025-10-01,2025,10,all-items excluding energy,163.2
+2020-01-01,2020,1,all-items excluding food and energy,131.0
+2020-02-01,2020,2,all-items excluding food and energy,132.1
+2020-03-01,2020,3,all-items excluding food and energy,132.2
+2020-04-01,2020,4,all-items excluding food and energy,131.8
+2020-05-01,2020,5,all-items excluding food and energy,131.5
+2020-06-01,2020,6,all-items excluding food and energy,132.1
+2020-07-01,2020,7,all-items excluding food and energy,131.9
+2020-08-01,2020,8,all-items excluding food and energy,131.9
+2020-09-01,2020,9,all-items excluding food and energy,131.9
+2020-10-01,2020,10,all-items excluding food and energy,132.5
+2020-11-01,2020,11,all-items excluding food and energy,132.7
+2020-12-01,2020,12,all-items excluding food and energy,132.2
+2021-01-01,2021,1,all-items excluding food and energy,132.8
+2021-02-01,2021,2,all-items excluding food and energy,133.1
+2021-03-01,2021,3,all-items excluding food and energy,133.4
+2021-04-01,2021,4,all-items excluding food and energy,134.2
+2021-05-01,2021,5,all-items excluding food and energy,134.6
+2021-06-01,2021,6,all-items excluding food and energy,135.0
+2021-07-01,2021,7,all-items excluding food and energy,135.6
+2021-08-01,2021,8,all-items excluding food and energy,135.9
+2021-09-01,2021,9,all-items excluding food and energy,136.2
+2021-10-01,2021,10,all-items excluding food and energy,136.8
+2021-11-01,2021,11,all-items excluding food and energy,136.8
+2021-12-01,2021,12,all-items excluding food and energy,136.7
+2022-01-01,2022,1,all-items excluding food and energy,137.5
+2022-02-01,2022,2,all-items excluding food and energy,138.3
+2022-03-01,2022,3,all-items excluding food and energy,139.6
+2022-04-01,2022,4,all-items excluding food and energy,140.4
+2022-05-01,2022,5,all-items excluding food and energy,141.6
+2022-06-01,2022,6,all-items excluding food and energy,142.2
+2022-07-01,2022,7,all-items excluding food and energy,143.1
+2022-08-01,2022,8,all-items excluding food and energy,143.1
+2022-09-01,2022,9,all-items excluding food and energy,143.6
+2022-10-01,2022,10,all-items excluding food and energy,144.1
+2022-11-01,2022,11,all-items excluding food and energy,144.2
+2022-12-01,2022,12,all-items excluding food and energy,144.0
+2023-01-01,2023,1,all-items excluding food and energy,144.3
+2023-02-01,2023,2,all-items excluding food and energy,145.0
+2023-03-01,2023,3,all-items excluding food and energy,145.9
+2023-04-01,2023,4,all-items excluding food and energy,146.6
+2023-05-01,2023,5,all-items excluding food and energy,147.2
+2023-06-01,2023,6,all-items excluding food and energy,147.2
+2023-07-01,2023,7,all-items excluding food and energy,148.0
+2023-08-01,2023,8,all-items excluding food and energy,148.3
+2023-09-01,2023,9,all-items excluding food and energy,148.2
+2023-10-01,2023,10,all-items excluding food and energy,149.0
+2023-11-01,2023,11,all-items excluding food and energy,149.3
+2023-12-01,2023,12,all-items excluding food and energy,148.9
+2024-01-01,2024,1,all-items excluding food and energy,148.8
+2024-02-01,2024,2,all-items excluding food and energy,149.1
+2024-03-01,2024,3,all-items excluding food and energy,150.1
+2024-04-01,2024,4,all-items excluding food and energy,150.5
+2024-05-01,2024,5,all-items excluding food and energy,151.4
+2024-06-01,2024,6,all-items excluding food and energy,151.4
+2024-07-01,2024,7,all-items excluding food and energy,152.0
+2024-08-01,2024,8,all-items excluding food and energy,151.8
+2024-09-01,2024,9,all-items excluding food and energy,151.7
+2024-10-01,2024,10,all-items excluding food and energy,152.4
+2024-11-01,2024,11,all-items excluding food and energy,152.2
+2024-12-01,2024,12,all-items excluding food and energy,152.1
+2025-01-01,2025,1,all-items excluding food and energy,152.0
+2025-02-01,2025,2,all-items excluding food and energy,153.4
+2025-03-01,2025,3,all-items excluding food and energy,153.7
+2025-04-01,2025,4,all-items excluding food and energy,154.4
+2025-05-01,2025,5,all-items excluding food and energy,155.3
+2025-06-01,2025,6,all-items excluding food and energy,155.4
+2025-07-01,2025,7,all-items excluding food and energy,155.8
+2025-08-01,2025,8,all-items excluding food and energy,155.5
+2025-09-01,2025,9,all-items excluding food and energy,155.4
+2025-10-01,2025,10,all-items excluding food and energy,156.5
+2020-01-01,2020,1,clothing and footwear,95.8
+2020-02-01,2020,2,clothing and footwear,97.4
+2020-03-01,2020,3,clothing and footwear,99.0
+2020-04-01,2020,4,clothing and footwear,93.2
+2020-05-01,2020,5,clothing and footwear,91.5
+2020-06-01,2020,6,clothing and footwear,92.4
+2020-07-01,2020,7,clothing and footwear,92.1
+2020-08-01,2020,8,clothing and footwear,93.5
+2020-09-01,2020,9,clothing and footwear,94.5
+2020-10-01,2020,10,clothing and footwear,95.4
+2020-11-01,2020,11,clothing and footwear,96.2
+2020-12-01,2020,12,clothing and footwear,92.1
+2021-01-01,2021,1,clothing and footwear,91.9
+2021-02-01,2021,2,clothing and footwear,92.7
+2021-03-01,2021,3,clothing and footwear,93.7
+2021-04-01,2021,4,clothing and footwear,94.9
+2021-05-01,2021,5,clothing and footwear,95.1
+2021-06-01,2021,6,clothing and footwear,93.4
+2021-07-01,2021,7,clothing and footwear,93.0
+2021-08-01,2021,8,clothing and footwear,93.3
+2021-09-01,2021,9,clothing and footwear,94.7
+2021-10-01,2021,10,clothing and footwear,96.0
+2021-11-01,2021,11,clothing and footwear,96.9
+2021-12-01,2021,12,clothing and footwear,93.1
+2022-01-01,2022,1,clothing and footwear,93.4
+2022-02-01,2022,2,clothing and footwear,93.8
+2022-03-01,2022,3,clothing and footwear,94.5
+2022-04-01,2022,4,clothing and footwear,95.1
+2022-05-01,2022,5,clothing and footwear,97.2
+2022-06-01,2022,6,clothing and footwear,95.9
+2022-07-01,2022,7,clothing and footwear,94.3
+2022-08-01,2022,8,clothing and footwear,94.6
+2022-09-01,2022,9,clothing and footwear,96.1
+2022-10-01,2022,10,clothing and footwear,97.7
+2022-11-01,2022,11,clothing and footwear,97.3
+2022-12-01,2022,12,clothing and footwear,94.8
+2023-01-01,2023,1,clothing and footwear,93.8
+2023-02-01,2023,2,clothing and footwear,95.6
+2023-03-01,2023,3,clothing and footwear,96.8
+2023-04-01,2023,4,clothing and footwear,97.5
+2023-05-01,2023,5,clothing and footwear,97.9
+2023-06-01,2023,6,clothing and footwear,96.2
+2023-07-01,2023,7,clothing and footwear,95.2
+2023-08-01,2023,8,clothing and footwear,96.2
+2023-09-01,2023,9,clothing and footwear,97.1
+2023-10-01,2023,10,clothing and footwear,97.2
+2023-11-01,2023,11,clothing and footwear,97.9
+2023-12-01,2023,12,clothing and footwear,95.7
+2024-01-01,2024,1,clothing and footwear,92.6
+2024-02-01,2024,2,clothing and footwear,91.6
+2024-03-01,2024,3,clothing and footwear,94.2
+2024-04-01,2024,4,clothing and footwear,95.0
+2024-05-01,2024,5,clothing and footwear,95.0
+2024-06-01,2024,6,clothing and footwear,93.2
+2024-07-01,2024,7,clothing and footwear,92.6
+2024-08-01,2024,8,clothing and footwear,92.0
+2024-09-01,2024,9,clothing and footwear,92.8
+2024-10-01,2024,10,clothing and footwear,95.0
+2024-11-01,2024,11,clothing and footwear,94.2
+2024-12-01,2024,12,clothing and footwear,91.4
+2025-01-01,2025,1,clothing and footwear,91.4
+2025-02-01,2025,2,clothing and footwear,92.9
+2025-03-01,2025,3,clothing and footwear,94.4
+2025-04-01,2025,4,clothing and footwear,94.2
+2025-05-01,2025,5,clothing and footwear,95.5
+2025-06-01,2025,6,clothing and footwear,95.1
+2025-07-01,2025,7,clothing and footwear,93.3
+2025-08-01,2025,8,clothing and footwear,93.6
+2025-09-01,2025,9,clothing and footwear,93.5
+2025-10-01,2025,10,clothing and footwear,94.7
+2020-01-01,2020,1,energy,158.6
+2020-02-01,2020,2,energy,156.6
+2020-03-01,2020,3,energy,140.6
+2020-04-01,2020,4,energy,128.3
+2020-05-01,2020,5,energy,137.0
+2020-06-01,2020,6,energy,146.2
+2020-07-01,2020,7,energy,149.7
+2020-08-01,2020,8,energy,149.3
+2020-09-01,2020,9,energy,149.8
+2020-10-01,2020,10,energy,149.4
+2020-11-01,2020,11,energy,149.1
+2020-12-01,2020,12,energy,152.0
+2021-01-01,2021,1,energy,154.3
+2021-02-01,2021,2,energy,160.4
+2021-03-01,2021,3,energy,167.4
+2021-04-01,2021,4,energy,170.2
+2021-05-01,2021,5,energy,173.2
+2021-06-01,2021,6,energy,174.7
+2021-07-01,2021,7,energy,179.2
+2021-08-01,2021,8,energy,180.2
+2021-09-01,2021,9,energy,179.9
+2021-10-01,2021,10,energy,187.5
+2021-11-01,2021,11,energy,188.4
+2021-12-01,2021,12,energy,184.2
+2022-01-01,2022,1,energy,190.0
+2022-02-01,2022,2,energy,199.0
+2022-03-01,2022,3,energy,213.9
+2022-04-01,2022,4,energy,215.1
+2022-05-01,2022,5,energy,233.4
+2022-06-01,2022,6,energy,242.5
+2022-07-01,2022,7,energy,229.4
+2022-08-01,2022,8,energy,214.5
+2022-09-01,2022,9,energy,205.1
+2022-10-01,2022,10,energy,217.9
+2022-11-01,2022,11,energy,214.6
+2022-12-01,2022,12,energy,197.7
+2023-01-01,2023,1,energy,200.3
+2023-02-01,2023,2,energy,197.9
+2023-03-01,2023,3,energy,199.2
+2023-04-01,2023,4,energy,206.0
+2023-05-01,2023,5,energy,204.4
+2023-06-01,2023,6,energy,207.2
+2023-07-01,2023,7,energy,210.7
+2023-08-01,2023,8,energy,218.4
+2023-09-01,2023,9,energy,216.2
+2023-10-01,2023,10,energy,206.2
+2023-11-01,2023,11,energy,202.3
+2023-12-01,2023,12,energy,197.0
+2024-01-01,2024,1,energy,194.9
+2024-02-01,2024,2,energy,200.4
+2024-03-01,2024,3,energy,204.7
+2024-04-01,2024,4,energy,215.2
+2024-05-01,2024,5,energy,212.8
+2024-06-01,2024,6,energy,208.3
+2024-07-01,2024,7,energy,211.6
+2024-08-01,2024,8,energy,208.2
+2024-09-01,2024,9,energy,198.3
+2024-10-01,2024,10,energy,198.9
+2024-11-01,2024,11,energy,199.5
+2024-12-01,2024,12,energy,199.0
+2025-01-01,2025,1,energy,205.3
+2025-02-01,2025,2,energy,206.4
+2025-03-01,2025,3,energy,204.0
+2025-04-01,2025,4,energy,187.8
+2025-05-01,2025,5,energy,189.4
+2025-06-01,2025,6,energy,188.6
+2025-07-01,2025,7,energy,189.5
+2025-08-01,2025,8,energy,191.0
+2025-09-01,2025,9,energy,193.1
+2025-10-01,2025,10,energy,186.0
+2020-01-01,2020,1,food,153.5
+2020-02-01,2020,2,food,152.9
+2020-03-01,2020,3,food,152.8
+2020-04-01,2020,4,food,154.0
+2020-05-01,2020,5,food,154.3
+2020-06-01,2020,6,food,154.8
+2020-07-01,2020,7,food,155.0
+2020-08-01,2020,8,food,153.8
+2020-09-01,2020,9,food,152.6
+2020-10-01,2020,10,food,153.3
+2020-11-01,2020,11,food,153.9
+2020-12-01,2020,12,food,153.6
+2021-01-01,2021,1,food,155.0
+2021-02-01,2021,2,food,155.6
+2021-03-01,2021,3,food,155.5
+2021-04-01,2021,4,food,155.4
+2021-05-01,2021,5,food,156.6
+2021-06-01,2021,6,food,156.8
+2021-07-01,2021,7,food,157.6
+2021-08-01,2021,8,food,158.0
+2021-09-01,2021,9,food,158.5
+2021-10-01,2021,10,food,159.2
+2021-11-01,2021,11,food,160.7
+2021-12-01,2021,12,food,161.6
+2022-01-01,2022,1,food,163.9
+2022-02-01,2022,2,food,166.0
+2022-03-01,2022,3,food,167.5
+2022-04-01,2022,4,food,169.0
+2022-05-01,2022,5,food,170.4
+2022-06-01,2022,6,food,170.6
+2022-07-01,2022,7,food,172.1
+2022-08-01,2022,8,food,173.5
+2022-09-01,2022,9,food,174.8
+2022-10-01,2022,10,food,175.2
+2022-11-01,2022,11,food,177.3
+2022-12-01,2022,12,food,177.9
+2023-01-01,2023,1,food,181.0
+2023-02-01,2023,2,food,182.1
+2023-03-01,2023,3,food,182.4
+2023-04-01,2023,4,food,183.1
+2023-05-01,2023,5,food,184.6
+2023-06-01,2023,6,food,184.8
+2023-07-01,2023,7,food,185.5
+2023-08-01,2023,8,food,185.3
+2023-09-01,2023,9,food,185.2
+2023-10-01,2023,10,food,185.0
+2023-11-01,2023,11,food,186.2
+2023-12-01,2023,12,food,186.8
+2024-01-01,2024,1,food,188.1
+2024-02-01,2024,2,food,188.1
+2024-03-01,2024,3,food,187.8
+2024-04-01,2024,4,food,187.4
+2024-05-01,2024,5,food,189.0
+2024-06-01,2024,6,food,190.0
+2024-07-01,2024,7,food,190.5
+2024-08-01,2024,8,food,190.3
+2024-09-01,2024,9,food,190.3
+2024-10-01,2024,10,food,190.5
+2024-11-01,2024,11,food,191.5
+2024-12-01,2024,12,food,188.0
+2025-01-01,2025,1,food,187.0
+2025-02-01,2025,2,food,190.5
+2025-03-01,2025,3,food,193.8
+2025-04-01,2025,4,food,194.5
+2025-05-01,2025,5,food,195.4
+2025-06-01,2025,6,food,195.6
+2025-07-01,2025,7,food,196.8
+2025-08-01,2025,8,food,196.8
+2025-09-01,2025,9,food,197.5
+2025-10-01,2025,10,food,196.9
+2020-01-01,2020,1,gasoline,166.4
+2020-02-01,2020,2,gasoline,163.1
+2020-03-01,2020,3,gasoline,134.0
+2020-04-01,2020,4,gasoline,113.6
+2020-05-01,2020,5,gasoline,132.8
+2020-06-01,2020,6,gasoline,146.7
+2020-07-01,2020,7,gasoline,153.1
+2020-08-01,2020,8,gasoline,151.9
+2020-09-01,2020,9,gasoline,151.3
+2020-10-01,2020,10,gasoline,149.0
+2020-11-01,2020,11,gasoline,146.8
+2020-12-01,2020,12,gasoline,151.7
+2021-01-01,2021,1,gasoline,160.9
+2021-02-01,2021,2,gasoline,171.3
+2021-03-01,2021,3,gasoline,181.3
+2021-04-01,2021,4,gasoline,184.6
+2021-05-01,2021,5,gasoline,190.5
+2021-06-01,2021,6,gasoline,193.6
+2021-07-01,2021,7,gasoline,200.4
+2021-08-01,2021,8,gasoline,201.3
+2021-09-01,2021,9,gasoline,201.0
+2021-10-01,2021,10,gasoline,211.1
+2021-11-01,2021,11,gasoline,210.8
+2021-12-01,2021,12,gasoline,202.2
+2022-01-01,2022,1,gasoline,211.9
+2022-02-01,2022,2,gasoline,226.6
+2022-03-01,2022,3,gasoline,253.4
+2022-04-01,2022,4,gasoline,251.7
+2022-05-01,2022,5,gasoline,281.9
+2022-06-01,2022,6,gasoline,299.4
+2022-07-01,2022,7,gasoline,271.8
+2022-08-01,2022,8,gasoline,245.8
+2022-09-01,2022,9,gasoline,227.6
+2022-10-01,2022,10,gasoline,248.6
+2022-11-01,2022,11,gasoline,239.6
+2022-12-01,2022,12,gasoline,208.3
+2023-01-01,2023,1,gasoline,218.1
+2023-02-01,2023,2,gasoline,215.9
+2023-03-01,2023,3,gasoline,218.4
+2023-04-01,2023,4,gasoline,232.2
+2023-05-01,2023,5,gasoline,230.3
+2023-06-01,2023,6,gasoline,234.7
+2023-07-01,2023,7,gasoline,236.8
+2023-08-01,2023,8,gasoline,247.8
+2023-09-01,2023,9,gasoline,244.7
+2023-10-01,2023,10,gasoline,229.1
+2023-11-01,2023,11,gasoline,221.1
+2023-12-01,2023,12,gasoline,211.3
+2024-01-01,2024,1,gasoline,209.3
+2024-02-01,2024,2,gasoline,217.7
+2024-03-01,2024,3,gasoline,228.3
+2024-04-01,2024,4,gasoline,246.3
+2024-05-01,2024,5,gasoline,243.2
+2024-06-01,2024,6,gasoline,235.7
+2024-07-01,2024,7,gasoline,241.4
+2024-08-01,2024,8,gasoline,235.2
+2024-09-01,2024,9,gasoline,218.4
+2024-10-01,2024,10,gasoline,220.0
+2024-11-01,2024,11,gasoline,220.1
+2024-12-01,2024,12,gasoline,218.7
+2025-01-01,2025,1,gasoline,227.4
+2025-02-01,2025,2,gasoline,228.8
+2025-03-01,2025,3,gasoline,224.7
+2025-04-01,2025,4,gasoline,201.7
+2025-05-01,2025,5,gasoline,205.5
+2025-06-01,2025,6,gasoline,204.0
+2025-07-01,2025,7,gasoline,202.5
+2025-08-01,2025,8,gasoline,205.4
+2025-09-01,2025,9,gasoline,209.4
+2025-10-01,2025,10,gasoline,199.4
+2020-01-01,2020,1,goods,123.7
+2020-02-01,2020,2,goods,123.9
+2020-03-01,2020,3,goods,122.0
+2020-04-01,2020,4,goods,120.2
+2020-05-01,2020,5,goods,121.0
+2020-06-01,2020,6,goods,122.6
+2020-07-01,2020,7,goods,122.9
+2020-08-01,2020,8,goods,122.3
+2020-09-01,2020,9,goods,122.2
+2020-10-01,2020,10,goods,122.9
+2020-11-01,2020,11,goods,123.2
+2020-12-01,2020,12,goods,122.5
+2021-01-01,2021,1,goods,123.8
+2021-02-01,2021,2,goods,125.2
+2021-03-01,2021,3,goods,126.2
+2021-04-01,2021,4,goods,126.8
+2021-05-01,2021,5,goods,127.9
+2021-06-01,2021,6,goods,128.1
+2021-07-01,2021,7,goods,129.1
+2021-08-01,2021,8,goods,129.4
+2021-09-01,2021,9,goods,129.6
+2021-10-01,2021,10,goods,130.9
+2021-11-01,2021,11,goods,131.7
+2021-12-01,2021,12,goods,130.8
+2022-01-01,2022,1,goods,132.7
+2022-02-01,2022,2,goods,134.7
+2022-03-01,2022,3,goods,137.8
+2022-04-01,2022,4,goods,138.3
+2022-05-01,2022,5,goods,141.2
+2022-06-01,2022,6,goods,142.4
+2022-07-01,2022,7,goods,141.5
+2022-08-01,2022,8,goods,140.4
+2022-09-01,2022,9,goods,140.2
+2022-10-01,2022,10,goods,141.9
+2022-11-01,2022,11,goods,142.2
+2022-12-01,2022,12,goods,139.8
+2023-01-01,2023,1,goods,141.2
+2023-02-01,2023,2,goods,141.8
+2023-03-01,2023,3,goods,142.7
+2023-04-01,2023,4,goods,143.9
+2023-05-01,2023,5,goods,144.1
+2023-06-01,2023,6,goods,144.4
+2023-07-01,2023,7,goods,144.7
+2023-08-01,2023,8,goods,145.6
+2023-09-01,2023,9,goods,145.2
+2023-10-01,2023,10,goods,144.1
+2023-11-01,2023,11,goods,144.2
+2023-12-01,2023,12,goods,143.1
+2024-01-01,2024,1,goods,143.1
+2024-02-01,2024,2,goods,143.5
+2024-03-01,2024,3,goods,144.2
+2024-04-01,2024,4,goods,145.4
+2024-05-01,2024,5,goods,145.5
+2024-06-01,2024,6,goods,144.8
+2024-07-01,2024,7,goods,145.1
+2024-08-01,2024,8,goods,144.6
+2024-09-01,2024,9,goods,143.7
+2024-10-01,2024,10,goods,144.2
+2024-11-01,2024,11,goods,144.2
+2024-12-01,2024,12,goods,142.9
+2025-01-01,2025,1,goods,144.4
+2025-02-01,2025,2,goods,145.6
+2025-03-01,2025,3,goods,146.1
+2025-04-01,2025,4,goods,144.7
+2025-05-01,2025,5,goods,145.4
+2025-06-01,2025,6,goods,145.5
+2025-07-01,2025,7,goods,145.6
+2025-08-01,2025,8,goods,145.6
+2025-09-01,2025,9,goods,146.0
+2025-10-01,2025,10,goods,145.5
+2020-01-01,2020,1,health and personal care,128.6
+2020-02-01,2020,2,health and personal care,128.8
+2020-03-01,2020,3,health and personal care,128.6
+2020-04-01,2020,4,health and personal care,128.7
+2020-05-01,2020,5,health and personal care,128.4
+2020-06-01,2020,6,health and personal care,128.3
+2020-07-01,2020,7,health and personal care,128.8
+2020-08-01,2020,8,health and personal care,129.6
+2020-09-01,2020,9,health and personal care,129.8
+2020-10-01,2020,10,health and personal care,130.2
+2020-11-01,2020,11,health and personal care,130.6
+2020-12-01,2020,12,health and personal care,130.0
+2021-01-01,2021,1,health and personal care,130.3
+2021-02-01,2021,2,health and personal care,130.5
+2021-03-01,2021,3,health and personal care,130.5
+2021-04-01,2021,4,health and personal care,132.5
+2021-05-01,2021,5,health and personal care,132.4
+2021-06-01,2021,6,health and personal care,132.6
+2021-07-01,2021,7,health and personal care,133.4
+2021-08-01,2021,8,health and personal care,133.3
+2021-09-01,2021,9,health and personal care,133.7
+2021-10-01,2021,10,health and personal care,133.9
+2021-11-01,2021,11,health and personal care,134.1
+2021-12-01,2021,12,health and personal care,133.4
+2022-01-01,2022,1,health and personal care,134.1
+2022-02-01,2022,2,health and personal care,134.6
+2022-03-01,2022,3,health and personal care,134.9
+2022-04-01,2022,4,health and personal care,137.0
+2022-05-01,2022,5,health and personal care,137.2
+2022-06-01,2022,6,health and personal care,137.8
+2022-07-01,2022,7,health and personal care,138.6
+2022-08-01,2022,8,health and personal care,139.1
+2022-09-01,2022,9,health and personal care,139.6
+2022-10-01,2022,10,health and personal care,140.4
+2022-11-01,2022,11,health and personal care,141.5
+2022-12-01,2022,12,health and personal care,141.5
+2023-01-01,2023,1,health and personal care,142.4
+2023-02-01,2023,2,health and personal care,143.0
+2023-03-01,2023,3,health and personal care,143.7
+2023-04-01,2023,4,health and personal care,145.7
+2023-05-01,2023,5,health and personal care,146.0
+2023-06-01,2023,6,health and personal care,146.4
+2023-07-01,2023,7,health and personal care,146.6
+2023-08-01,2023,8,health and personal care,147.2
+2023-09-01,2023,9,health and personal care,147.4
+2023-10-01,2023,10,health and personal care,147.3
+2023-11-01,2023,11,health and personal care,147.4
+2023-12-01,2023,12,health and personal care,146.7
+2024-01-01,2024,1,health and personal care,147.7
+2024-02-01,2024,2,health and personal care,148.4
+2024-03-01,2024,3,health and personal care,148.3
+2024-04-01,2024,4,health and personal care,150.0
+2024-05-01,2024,5,health and personal care,151.2
+2024-06-01,2024,6,health and personal care,150.8
+2024-07-01,2024,7,health and personal care,150.8
+2024-08-01,2024,8,health and personal care,151.1
+2024-09-01,2024,9,health and personal care,151.9
+2024-10-01,2024,10,health and personal care,151.9
+2024-11-01,2024,11,health and personal care,151.6
+2024-12-01,2024,12,health and personal care,151.3
+2025-01-01,2025,1,health and personal care,151.1
+2025-02-01,2025,2,health and personal care,151.9
+2025-03-01,2025,3,health and personal care,152.0
+2025-04-01,2025,4,health and personal care,152.8
+2025-05-01,2025,5,health and personal care,154.4
+2025-06-01,2025,6,health and personal care,154.8
+2025-07-01,2025,7,health and personal care,155.0
+2025-08-01,2025,8,health and personal care,155.4
+2025-09-01,2025,9,health and personal care,155.8
+2025-10-01,2025,10,health and personal care,155.7
+2020-01-01,2020,1,"household operations, furnishings and equipment",122.6
+2020-02-01,2020,2,"household operations, furnishings and equipment",123.3
+2020-03-01,2020,3,"household operations, furnishings and equipment",123.7
+2020-04-01,2020,4,"household operations, furnishings and equipment",124.2
+2020-05-01,2020,5,"household operations, furnishings and equipment",123.6
+2020-06-01,2020,6,"household operations, furnishings and equipment",123.7
+2020-07-01,2020,7,"household operations, furnishings and equipment",124.2
+2020-08-01,2020,8,"household operations, furnishings and equipment",124.0
+2020-09-01,2020,9,"household operations, furnishings and equipment",124.0
+2020-10-01,2020,10,"household operations, furnishings and equipment",124.3
+2020-11-01,2020,11,"household operations, furnishings and equipment",124.3
+2020-12-01,2020,12,"household operations, furnishings and equipment",123.6
+2021-01-01,2021,1,"household operations, furnishings and equipment",124.3
+2021-02-01,2021,2,"household operations, furnishings and equipment",124.3
+2021-03-01,2021,3,"household operations, furnishings and equipment",123.5
+2021-04-01,2021,4,"household operations, furnishings and equipment",124.7
+2021-05-01,2021,5,"household operations, furnishings and equipment",124.7
+2021-06-01,2021,6,"household operations, furnishings and equipment",124.8
+2021-07-01,2021,7,"household operations, furnishings and equipment",125.6
+2021-08-01,2021,8,"household operations, furnishings and equipment",125.8
+2021-09-01,2021,9,"household operations, furnishings and equipment",125.9
+2021-10-01,2021,10,"household operations, furnishings and equipment",126.5
+2021-11-01,2021,11,"household operations, furnishings and equipment",126.3
+2021-12-01,2021,12,"household operations, furnishings and equipment",126.1
+2022-01-01,2022,1,"household operations, furnishings and equipment",126.7
+2022-02-01,2022,2,"household operations, furnishings and equipment",127.6
+2022-03-01,2022,3,"household operations, furnishings and equipment",129.1
+2022-04-01,2022,4,"household operations, furnishings and equipment",129.8
+2022-05-01,2022,5,"household operations, furnishings and equipment",131.5
+2022-06-01,2022,6,"household operations, furnishings and equipment",131.8
+2022-07-01,2022,7,"household operations, furnishings and equipment",131.9
+2022-08-01,2022,8,"household operations, furnishings and equipment",132.2
+2022-09-01,2022,9,"household operations, furnishings and equipment",132.7
+2022-10-01,2022,10,"household operations, furnishings and equipment",132.9
+2022-11-01,2022,11,"household operations, furnishings and equipment",132.9
+2022-12-01,2022,12,"household operations, furnishings and equipment",131.9
+2023-01-01,2023,1,"household operations, furnishings and equipment",131.4
+2023-02-01,2023,2,"household operations, furnishings and equipment",132.8
+2023-03-01,2023,3,"household operations, furnishings and equipment",133.3
+2023-04-01,2023,4,"household operations, furnishings and equipment",133.7
+2023-05-01,2023,5,"household operations, furnishings and equipment",133.0
+2023-06-01,2023,6,"household operations, furnishings and equipment",132.2
+2023-07-01,2023,7,"household operations, furnishings and equipment",131.8
+2023-08-01,2023,8,"household operations, furnishings and equipment",132.2
+2023-09-01,2023,9,"household operations, furnishings and equipment",131.3
+2023-10-01,2023,10,"household operations, furnishings and equipment",131.3
+2023-11-01,2023,11,"household operations, furnishings and equipment",130.9
+2023-12-01,2023,12,"household operations, furnishings and equipment",129.7
+2024-01-01,2024,1,"household operations, furnishings and equipment",130.8
+2024-02-01,2024,2,"household operations, furnishings and equipment",130.6
+2024-03-01,2024,3,"household operations, furnishings and equipment",130.2
+2024-04-01,2024,4,"household operations, furnishings and equipment",130.9
+2024-05-01,2024,5,"household operations, furnishings and equipment",131.0
+2024-06-01,2024,6,"household operations, furnishings and equipment",131.0
+2024-07-01,2024,7,"household operations, furnishings and equipment",131.7
+2024-08-01,2024,8,"household operations, furnishings and equipment",131.2
+2024-09-01,2024,9,"household operations, furnishings and equipment",131.0
+2024-10-01,2024,10,"household operations, furnishings and equipment",131.2
+2024-11-01,2024,11,"household operations, furnishings and equipment",130.0
+2024-12-01,2024,12,"household operations, furnishings and equipment",128.6
+2025-01-01,2025,1,"household operations, furnishings and equipment",130.5
+2025-02-01,2025,2,"household operations, furnishings and equipment",131.7
+2025-03-01,2025,3,"household operations, furnishings and equipment",131.3
+2025-04-01,2025,4,"household operations, furnishings and equipment",132.4
+2025-05-01,2025,5,"household operations, furnishings and equipment",133.1
+2025-06-01,2025,6,"household operations, furnishings and equipment",132.9
+2025-07-01,2025,7,"household operations, furnishings and equipment",133.5
+2025-08-01,2025,8,"household operations, furnishings and equipment",133.9
+2025-09-01,2025,9,"household operations, furnishings and equipment",134.1
+2025-10-01,2025,10,"household operations, furnishings and equipment",135.0
+2020-01-01,2020,1,"recreation, education and reading",113.0
+2020-02-01,2020,2,"recreation, education and reading",116.0
+2020-03-01,2020,3,"recreation, education and reading",116.0
+2020-04-01,2020,4,"recreation, education and reading",115.0
+2020-05-01,2020,5,"recreation, education and reading",115.5
+2020-06-01,2020,6,"recreation, education and reading",116.3
+2020-07-01,2020,7,"recreation, education and reading",116.3
+2020-08-01,2020,8,"recreation, education and reading",116.1
+2020-09-01,2020,9,"recreation, education and reading",116.6
+2020-10-01,2020,10,"recreation, education and reading",116.1
+2020-11-01,2020,11,"recreation, education and reading",115.6
+2020-12-01,2020,12,"recreation, education and reading",115.5
+2021-01-01,2021,1,"recreation, education and reading",116.3
+2021-02-01,2021,2,"recreation, education and reading",116.1
+2021-03-01,2021,3,"recreation, education and reading",116.4
+2021-04-01,2021,4,"recreation, education and reading",116.8
+2021-05-01,2021,5,"recreation, education and reading",117.6
+2021-06-01,2021,6,"recreation, education and reading",118.0
+2021-07-01,2021,7,"recreation, education and reading",119.7
+2021-08-01,2021,8,"recreation, education and reading",118.6
+2021-09-01,2021,9,"recreation, education and reading",119.0
+2021-10-01,2021,10,"recreation, education and reading",120.1
+2021-11-01,2021,11,"recreation, education and reading",118.5
+2021-12-01,2021,12,"recreation, education and reading",117.7
+2022-01-01,2022,1,"recreation, education and reading",119.2
+2022-02-01,2022,2,"recreation, education and reading",120.9
+2022-03-01,2022,3,"recreation, education and reading",123.1
+2022-04-01,2022,4,"recreation, education and reading",121.6
+2022-05-01,2022,5,"recreation, education and reading",123.9
+2022-06-01,2022,6,"recreation, education and reading",125.3
+2022-07-01,2022,7,"recreation, education and reading",127.1
+2022-08-01,2022,8,"recreation, education and reading",125.4
+2022-09-01,2022,9,"recreation, education and reading",125.2
+2022-10-01,2022,10,"recreation, education and reading",125.0
+2022-11-01,2022,11,"recreation, education and reading",123.4
+2022-12-01,2022,12,"recreation, education and reading",121.7
+2023-01-01,2023,1,"recreation, education and reading",122.6
+2023-02-01,2023,2,"recreation, education and reading",123.7
+2023-03-01,2023,3,"recreation, education and reading",125.1
+2023-04-01,2023,4,"recreation, education and reading",125.4
+2023-05-01,2023,5,"recreation, education and reading",127.8
+2023-06-01,2023,6,"recreation, education and reading",126.8
+2023-07-01,2023,7,"recreation, education and reading",129.4
+2023-08-01,2023,8,"recreation, education and reading",128.2
+2023-09-01,2023,9,"recreation, education and reading",127.5
+2023-10-01,2023,10,"recreation, education and reading",128.6
+2023-11-01,2023,11,"recreation, education and reading",128.1
+2023-12-01,2023,12,"recreation, education and reading",123.8
+2024-01-01,2024,1,"recreation, education and reading",123.0
+2024-02-01,2024,2,"recreation, education and reading",125.0
+2024-03-01,2024,3,"recreation, education and reading",127.5
+2024-04-01,2024,4,"recreation, education and reading",126.6
+2024-05-01,2024,5,"recreation, education and reading",129.5
+2024-06-01,2024,6,"recreation, education and reading",127.6
+2024-07-01,2024,7,"recreation, education and reading",129.1
+2024-08-01,2024,8,"recreation, education and reading",128.0
+2024-09-01,2024,9,"recreation, education and reading",127.5
+2024-10-01,2024,10,"recreation, education and reading",127.5
+2024-11-01,2024,11,"recreation, education and reading",126.9
+2024-12-01,2024,12,"recreation, education and reading",126.0
+2025-01-01,2025,1,"recreation, education and reading",125.3
+2025-02-01,2025,2,"recreation, education and reading",129.6
+2025-03-01,2025,3,"recreation, education and reading",128.6
+2025-04-01,2025,4,"recreation, education and reading",128.4
+2025-05-01,2025,5,"recreation, education and reading",130.6
+2025-06-01,2025,6,"recreation, education and reading",129.6
+2025-07-01,2025,7,"recreation, education and reading",130.3
+2025-08-01,2025,8,"recreation, education and reading",128.7
+2025-09-01,2025,9,"recreation, education and reading",129.6
+2025-10-01,2025,10,"recreation, education and reading",130.0
+2020-01-01,2020,1,services,149.7
+2020-02-01,2020,2,services,150.8
+2020-03-01,2020,3,services,151.1
+2020-04-01,2020,4,services,151.1
+2020-05-01,2020,5,services,151.1
+2020-06-01,2020,6,services,151.6
+2020-07-01,2020,7,services,151.5
+2020-08-01,2020,8,services,151.6
+2020-09-01,2020,9,services,151.5
+2020-10-01,2020,10,services,151.9
+2020-11-01,2020,11,services,152.1
+2020-12-01,2020,12,services,152.1
+2021-01-01,2021,1,services,152.5
+2021-02-01,2021,2,services,152.6
+2021-03-01,2021,3,services,152.9
+2021-04-01,2021,4,services,153.7
+2021-05-01,2021,5,services,154.0
+2021-06-01,2021,6,services,154.6
+2021-07-01,2021,7,services,155.4
+2021-08-01,2021,8,services,155.7
+2021-09-01,2021,9,services,156.1
+2021-10-01,2021,10,services,156.7
+2021-11-01,2021,11,services,156.5
+2021-12-01,2021,12,services,157.2
+2022-01-01,2022,1,services,157.7
+2022-02-01,2022,2,services,158.4
+2022-03-01,2022,3,services,159.4
+2022-04-01,2022,4,services,160.8
+2022-05-01,2022,5,services,162.0
+2022-06-01,2022,6,services,162.7
+2022-07-01,2022,7,services,164.2
+2022-08-01,2022,8,services,164.3
+2022-09-01,2022,9,services,164.8
+2022-10-01,2022,10,services,165.2
+2022-11-01,2022,11,services,165.5
+2022-12-01,2022,12,services,166.0
+2023-01-01,2023,1,services,166.1
+2023-02-01,2023,2,services,166.8
+2023-03-01,2023,3,services,167.6
+2023-04-01,2023,4,services,168.5
+2023-05-01,2023,5,services,169.4
+2023-06-01,2023,6,services,169.5
+2023-07-01,2023,7,services,171.2
+2023-08-01,2023,8,services,171.3
+2023-09-01,2023,9,services,171.3
+2023-10-01,2023,10,services,172.8
+2023-11-01,2023,11,services,173.1
+2023-12-01,2023,12,services,173.1
+2024-01-01,2024,1,services,173.1
+2024-02-01,2024,2,services,173.8
+2024-03-01,2024,3,services,175.1
+2024-04-01,2024,4,services,175.5
+2024-05-01,2024,5,services,177.2
+2024-06-01,2024,6,services,177.6
+2024-07-01,2024,7,services,178.8
+2024-08-01,2024,8,services,178.6
+2024-09-01,2024,9,services,178.2
+2024-10-01,2024,10,services,179.0
+2024-11-01,2024,11,services,179.1
+2024-12-01,2024,12,services,179.2
+2025-01-01,2025,1,services,177.9
+2025-02-01,2025,2,services,180.1
+2025-03-01,2025,3,services,180.6
+2025-04-01,2025,4,services,181.7
+2025-05-01,2025,5,services,182.9
+2025-06-01,2025,6,services,183.0
+2025-07-01,2025,7,services,183.8
+2025-08-01,2025,8,services,183.6
+2025-09-01,2025,9,services,183.5
+2025-10-01,2025,10,services,184.8
+2020-01-01,2020,1,shelter,146.4
+2020-02-01,2020,2,shelter,146.7
+2020-03-01,2020,3,shelter,146.5
+2020-04-01,2020,4,shelter,146.0
+2020-05-01,2020,5,shelter,145.6
+2020-06-01,2020,6,shelter,146.4
+2020-07-01,2020,7,shelter,146.4
+2020-08-01,2020,8,shelter,146.8
+2020-09-01,2020,9,shelter,147.3
+2020-10-01,2020,10,shelter,148.3
+2020-11-01,2020,11,shelter,148.7
+2020-12-01,2020,12,shelter,148.7
+2021-01-01,2021,1,shelter,148.4
+2021-02-01,2021,2,shelter,148.8
+2021-03-01,2021,3,shelter,150.0
+2021-04-01,2021,4,shelter,150.7
+2021-05-01,2021,5,shelter,151.7
+2021-06-01,2021,6,shelter,152.8
+2021-07-01,2021,7,shelter,153.5
+2021-08-01,2021,8,shelter,153.9
+2021-09-01,2021,9,shelter,154.4
+2021-10-01,2021,10,shelter,155.4
+2021-11-01,2021,11,shelter,155.9
+2021-12-01,2021,12,shelter,156.8
+2022-01-01,2022,1,shelter,157.6
+2022-02-01,2022,2,shelter,158.6
+2022-03-01,2022,3,shelter,160.2
+2022-04-01,2022,4,shelter,161.9
+2022-05-01,2022,5,shelter,163.0
+2022-06-01,2022,6,shelter,163.6
+2022-07-01,2022,7,shelter,164.2
+2022-08-01,2022,8,shelter,164.1
+2022-09-01,2022,9,shelter,164.9
+2022-10-01,2022,10,shelter,166.2
+2022-11-01,2022,11,shelter,167.2
+2022-12-01,2022,12,shelter,167.8
+2023-01-01,2023,1,shelter,168.0
+2023-02-01,2023,2,shelter,168.3
+2023-03-01,2023,3,shelter,168.9
+2023-04-01,2023,4,shelter,169.9
+2023-05-01,2023,5,shelter,170.6
+2023-06-01,2023,6,shelter,171.4
+2023-07-01,2023,7,shelter,172.6
+2023-08-01,2023,8,shelter,174.0
+2023-09-01,2023,9,shelter,174.8
+2023-10-01,2023,10,shelter,176.3
+2023-11-01,2023,11,shelter,177.1
+2023-12-01,2023,12,shelter,177.8
+2024-01-01,2024,1,shelter,178.4
+2024-02-01,2024,2,shelter,179.2
+2024-03-01,2024,3,shelter,179.9
+2024-04-01,2024,4,shelter,180.8
+2024-05-01,2024,5,shelter,181.5
+2024-06-01,2024,6,shelter,182.1
+2024-07-01,2024,7,shelter,182.5
+2024-08-01,2024,8,shelter,183.3
+2024-09-01,2024,9,shelter,183.5
+2024-10-01,2024,10,shelter,184.8
+2024-11-01,2024,11,shelter,185.3
+2024-12-01,2024,12,shelter,185.8
+2025-01-01,2025,1,shelter,186.4
+2025-02-01,2025,2,shelter,186.7
+2025-03-01,2025,3,shelter,187.0
+2025-04-01,2025,4,shelter,186.9
+2025-05-01,2025,5,shelter,186.9
+2025-06-01,2025,6,shelter,187.3
+2025-07-01,2025,7,shelter,187.9
+2025-08-01,2025,8,shelter,188.0
+2025-09-01,2025,9,shelter,188.2
+2025-10-01,2025,10,shelter,189.4
+2020-01-01,2020,1,transportation,143.4
+2020-02-01,2020,2,transportation,144.0
+2020-03-01,2020,3,transportation,138.9
+2020-04-01,2020,4,transportation,136.7
+2020-05-01,2020,5,transportation,139.7
+2020-06-01,2020,6,transportation,142.8
+2020-07-01,2020,7,transportation,142.8
+2020-08-01,2020,8,transportation,141.5
+2020-09-01,2020,9,transportation,140.4
+2020-10-01,2020,10,transportation,141.1
+2020-11-01,2020,11,transportation,141.3
+2020-12-01,2020,12,transportation,142.3
+2021-01-01,2021,1,transportation,144.9
+2021-02-01,2021,2,transportation,147.1
+2021-03-01,2021,3,transportation,148.8
+2021-04-01,2021,4,transportation,149.5
+2021-05-01,2021,5,transportation,150.3
+2021-06-01,2021,6,transportation,150.8
+2021-07-01,2021,7,transportation,152.2
+2021-08-01,2021,8,transportation,153.8
+2021-09-01,2021,9,transportation,153.2
+2021-10-01,2021,10,transportation,155.4
+2021-11-01,2021,11,transportation,155.4
+2021-12-01,2021,12,transportation,154.9
+2022-01-01,2022,1,transportation,156.9
+2022-02-01,2022,2,transportation,159.9
+2022-03-01,2022,3,transportation,165.5
+2022-04-01,2022,4,transportation,166.3
+2022-05-01,2022,5,transportation,172.2
+2022-06-01,2022,6,transportation,176.2
+2022-07-01,2022,7,transportation,174.1
+2022-08-01,2022,8,transportation,169.7
+2022-09-01,2022,9,transportation,166.5
+2022-10-01,2022,10,transportation,170.1
+2022-11-01,2022,11,transportation,168.6
+2022-12-01,2022,12,transportation,164.2
+2023-01-01,2023,1,transportation,165.4
+2023-02-01,2023,2,transportation,164.8
+2023-03-01,2023,3,transportation,166.0
+2023-04-01,2023,4,transportation,168.5
+2023-05-01,2023,5,transportation,168.1
+2023-06-01,2023,6,transportation,170.2
+2023-07-01,2023,7,transportation,172.4
+2023-08-01,2023,8,transportation,173.6
+2023-09-01,2023,9,transportation,171.9
+2023-10-01,2023,10,transportation,169.5
+2023-11-01,2023,11,transportation,168.5
+2023-12-01,2023,12,transportation,169.5
+2024-01-01,2024,1,transportation,167.4
+2024-02-01,2024,2,transportation,168.5
+2024-03-01,2024,3,transportation,171.0
+2024-04-01,2024,4,transportation,173.8
+2024-05-01,2024,5,transportation,173.9
+2024-06-01,2024,6,transportation,173.6
+2024-07-01,2024,7,transportation,175.9
+2024-08-01,2024,8,transportation,173.5
+2024-09-01,2024,9,transportation,169.3
+2024-10-01,2024,10,transportation,169.9
+2024-11-01,2024,11,transportation,170.4
+2024-12-01,2024,12,transportation,173.4
+2025-01-01,2025,1,transportation,173.1
+2025-02-01,2025,2,transportation,173.6
+2025-03-01,2025,3,transportation,173.1
+2025-04-01,2025,4,transportation,170.5
+2025-05-01,2025,5,transportation,171.7
+2025-06-01,2025,6,transportation,172.6
+2025-07-01,2025,7,transportation,173.3
+2025-08-01,2025,8,transportation,172.7
+2025-09-01,2025,9,transportation,171.8
+2025-10-01,2025,10,transportation,171.1
