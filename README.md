@@ -1,6 +1,6 @@
 # End-to-End Data Analytics Project Using Python, SQL Server & Power BI
 
-![Dashboard Screenshot](CPI_Dashboard.png)
+![Dashboard Screenshot](dashboards/CPI_Dashboard.png)
 
 This project analyzes Canada’s Consumer Price Index (CPI) between 2020–2025, using Python for data cleaning and transformation, SQL Server for structured analysis, and Power BI for visualization.
 The goal was to practice the full analytics pipeline: importing raw data, cleaning and modeling it, performing category-level inflation analysis, and building a clear dashboard that communicates key economic insights.
