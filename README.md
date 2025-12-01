@@ -11,6 +11,7 @@ The goal was to practice the full analytics pipeline: importing raw data, cleani
 
 - **Source:** Statistics Canada — Table 18-10-0004-01
 - **Years:** 2020–2025 (monthly CPI)
+- **URL:** https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401
 - The dataset includes CPI index values across major consumer categories, published with a base year 2002 = 100.
 
 ---
@@ -92,6 +93,25 @@ The goal was to practice the full analytics pipeline: importing raw data, cleani
 
 - Review `cpi_tables.sql` and `analysis.sql`  
 - Scripts run on SQL Server Express Edition  
+
+---
+
+- dashboards
+  - CPI Dashboard.pbix
+  - CPI Dashboard.pdf
+  - CPI Dashboard.png
+
+- dataset
+  - CPI_over_time.csv
+  - CPI_summary.csv
+
+- python
+  - cpi_cleaning.ipynb
+
+- sql
+  - analysis.sql
+
+- README.md
 
 ---
 
