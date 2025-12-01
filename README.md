@@ -96,6 +96,8 @@ The goal was to practice the full analytics pipeline: importing raw data, cleani
 
 ---
 
+# Repository Structure 
+
 - dashboards
   - CPI Dashboard.pbix
   - CPI Dashboard.pdf
